@@ -20,17 +20,17 @@ const DataImg = () => {
               <p
                 className='mt-3 text-base text-gray-900 text-justify mx-auto sm:mt-5 max-w-3xl sm:text-lg md:mt-5 md:text-xl'
                 >
-                Ante los líos medioambientales que ha causado el hombre por el paso por este planeta, convirtiéndose en la peor plaga, hoy nos encontramos en la encrucijada de invertir el desarrollo medioambiental a una pendiente negativa lo que sin duda alguna terminará causando la extinción de la vida en el planeta.
+                  El hombre ha causado numerosos problemas medioambientales, convirtiéndose en una de las peores amenazas para el planeta. Nos encontramos en una encrucijada donde, si no revertimos el daño ambiental, nos dirigimos hacia una pendiente negativa que podría llevar a la extinción de la vida en la Tierra.
               </p>
               <p
                 className='mt-3 text-base text-gray-900 text-justify mx-auto sm:mt-5 max-w-3xl sm:text-lg md:mt-5 md:text-xl'
                 >
-                Es así como justamente queremos participar activamente, aportando un granito de arena dentro de todo este lío que estamos heredando a nuestras generaciones, y queremos resaltar la importancia de la tecnología, pero realizando un uso racional y sostenible de la misma para minimizar o por qué no aportar positivamente los impactos ambientales.
+                  Queremos participar activamente en la solución, contribuyendo con nuestro granito de arena en medio de esta crisis que estamos dejando a las futuras generaciones. Queremos destacar la importancia de la tecnología, usándola de manera racional y sostenible para minimizar, e incluso revertir, los impactos ambientales.
               </p>
               <p
                 className='mt-3 text-base text-gray-900 text-justify mx-auto sm:mt-5 max-w-3xl sm:text-lg md:mt-5 md:text-xl'
                 >
-                Finalmente todo significa que antes de aplicar o usar cualquier uso tecnológico se debe razonar acerca de su impacto o aporte al ambiente, ese aspecto consciente y racional es lo que le da el nombre a nuestra organización TcC.
+                  Antes de aplicar cualquier tecnología, es crucial considerar su impacto ambiental. Esta reflexión consciente y racional es la esencia de nuestra organización, Tecnología con Conciencia (TcC).
               </p>
               <div className='mt-5 sm:mt-8 sm:flex sm:justify-center'>
                 <div>
