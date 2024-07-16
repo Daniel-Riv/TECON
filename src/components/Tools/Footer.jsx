@@ -22,7 +22,7 @@ const Footer = () => {
     <footer className="bg-gray-900 text-gray-100 py-10">
       <div className="container mx-auto px-4">
         <div className="flex flex-col md:flex-row justify-between items-center">
-          <div className="flex space-x-4 ">
+          <div className="flex flex-wrap justify-center md:justify-start space-x-4 mb-4 md:mb-0">
             {navigation.map((item) => (
               <Link
                 key={item.name}
@@ -37,7 +37,7 @@ const Footer = () => {
               </Link>
             ))}
           </div>
-          <div className="flex justify-center space-x-6">
+          <div className="flex justify-center space-x-6 mt-4 md:mt-0">
             <a href="https://facebook.com" className="colortextFooter">
               <FaFacebook size={24} />
             </a>

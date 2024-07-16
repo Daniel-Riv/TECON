@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
-import './Carousel.css'; // Para agregar estilos personalizados
+import './Carousel.css';
 
 const images = [
   {
@@ -10,7 +10,7 @@ const images = [
     caption: 'Tu Red de Datos y Ciberseguridad garantizada',
     description: 'Protegemos tu red de datos con las últimas tecnologías en ciberseguridad.',
     buttonText: 'Nuestros servicios',
-    buttonLink: '/services' 
+    buttonLink: '/services'
   },
   {
     src: 'https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80',
@@ -58,10 +58,10 @@ const CustomCarousel = () => {
     >
       {images.map((image, index) => (
         <div key={index} className="relative max-h-[35rem]">
-          <img src={image.src} alt={image.alt} />
-          <div className="absolute inset-0 flex flex-col pl-52 items-start justify-center  bg-black bg-opacity-50">
-            <h1 className="text-4xl text-[#0fa968] font-bold mb-4 slide-in-left">{image.caption}</h1>
-            <p className="text-lg text-white mb-4 slide-in-left">{image.description}</p>
+          <img src={image.src} alt={image.alt} className="w-full h-full object-cover" />
+          <div className="absolute inset-0 flex flex-col p-6 md:pl-52 items-start justify-center bg-black bg-opacity-50">
+            <h1 className="text-2xl md:text-4xl text-[#0fa968] font-bold mb-4 slide-in-left">{image.caption}</h1>
+            <p className="text-base md:text-lg text-white mb-4 slide-in-left">{image.description}</p>
             <a href={image.buttonLink} className="bg-[#0fa968] text-white px-4 py-2 rounded-md no-underline slide-in-left">
               {image.buttonText}
             </a>
