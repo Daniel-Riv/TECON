@@ -8,7 +8,7 @@ import { Approach } from '../components/About/Principles/Approach.jsx';
 
 export const AboutPages = () => {
   const links = [
-    { href: "#", label: "Inicio" },
+    { href: "/", label: "Inicio" },
     { href: "#", label: "Sobre Nosotros" }
   ];
   return (

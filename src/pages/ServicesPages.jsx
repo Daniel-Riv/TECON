@@ -6,7 +6,7 @@ import ServicesHeaderPage from "../components/Tools/ServicesHeaderPage";
 
 export const ServicesPages = () => {
   const links = [
-    { href: "#", label: "Inicio" },
+    { href: "/", label: "Inicio" },
     { href: "#", label: "Servicios" }
   ];
   return (

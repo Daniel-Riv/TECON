@@ -6,7 +6,7 @@ import Breadcrumb from '../components/Tools/Breadcrumb';
 
 export const ProyectPages = () => {
   const links = [
-    { href: "#", label: "Inicio" },
+    { href: "/", label: "Inicio" },
     { href: "#", label: "Proyectos" }
   ];
   return (
