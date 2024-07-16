@@ -1,0 +1,21 @@
+/* Nav.css */
+.colortext {
+  color: black;
+  transition: color 0.3s ease;
+}
+
+.colortext,colortextFooter:hover {
+  color: #0fa968;
+}
+.navbar-brand img {
+  width: 130px;
+}
+
+.colortextFooter {
+  color: white;
+  transition: color 0.3s ease;
+}
+
+.colortextFooter:hover {
+  color: #0fa968;
+}

@@ -1,0 +1,31 @@
+.carousel .slide {
+    background: none;
+  }
+  
+  .carousel .control-arrow,
+  .carousel.carousel-slider .control-arrow {
+    color: #fff; /* Color de las flechas */
+  }
+  
+  .carousel .control-dots .dot {
+    background-color: rgba(255, 255, 255, 0.5); /* Color de los indicadores */
+  }
+  
+  .carousel .control-dots .dot.selected {
+    background-color: #32c36c; /* Color de los indicadores seleccionados */
+  }
+  
+  @keyframes slideInLeft {
+    0% {
+      opacity: 0;
+      transform: translateX(-100%);
+    }
+    100% {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+  
+  .slide-in-left {
+    animation: slideInLeft 1s ease-out forwards;
+  }
