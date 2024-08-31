@@ -1,21 +1,23 @@
 import React from 'react';
 import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin } from 'react-icons/fa';
 import { Link, useLocation } from 'react-router-dom';
-
-const navigation = [
-  { name: 'Inicio', href: '/', current: true },
-  { name: 'Servicios', href: '/services', current: false },
-  { name: 'Nosotros', href: '/about', current: false },
-  { name: 'Proyecto', href: '/products', current: false },
-  { name: 'Contactanos', href: '/contact', current: false },
-];
+import { useLanguage } from './LanguageProvider';
 
 function classNames(...classes) {
-  return classes.filter(Boolean).join(' ')
+  return classes.filter(Boolean).join(' ');
 }
 
 const Footer = () => {
   const location = useLocation();
+  const { translations } = useLanguage(); // Obtén las traducciones del contexto
+
+  const navigation = [
+    { name: translations.footer.home, href: '/', current: true },
+    { name: translations.footer.services, href: '/services', current: false },
+    { name: translations.footer.about, href: '/about', current: false },
+    { name: translations.footer.projects, href: '/products', current: false },
+    { name: translations.footer.contact, href: '/contact', current: false },
+  ];
 
   return (
     <footer className="bg-gray-900 text-gray-100 py-10">
@@ -36,7 +38,7 @@ const Footer = () => {
               </Link>
             ))}
           </div>
-          <div className="flex justify-center space-x-6 mt-4 md:mt-0">
+          <div className="flex justify-center space-x-4 mb-4 md:mb-0">
             <a href="https://facebook.com" className="colortextFooter">
               <FaFacebook size={24} />
             </a>
@@ -51,8 +53,8 @@ const Footer = () => {
             </a>
           </div>
         </div>
-        <div className="text-center mt-8 border-t border-gray-700 pt-4">
-          <p>Copyright&copy;  2024 Tecnología con Conciencia | Todos los derechos reservados.</p>
+        <div className="text-center mt-5 border-t border-gray-700 pt-4">
+          <p>{translations.footer.copyright}</p>
         </div>
       </div>
     </footer>

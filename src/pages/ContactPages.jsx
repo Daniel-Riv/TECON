@@ -1,24 +1,27 @@
 import React from 'react';
+import { useLanguage } from '../components/Tools/LanguageProvider.jsx'; // Importa el hook para las traducciones
 import { ContentProduct } from '../components/Contac/FormContac/ContentProduct';
-import Breadcrumb from '../components/Tools/Breadcrumb';
-import ServicesHeaderPage from '../components/Tools/ServicesHeaderPage';
+import Breadcrumb from '../components/Tools/Breadcrumb.jsx';
+import ServicesHeaderPage from '../components/Tools/ServicesHeaderPage.jsx';
 
 export const ContactPages = () => {
+  const { translations } = useLanguage(); // Obtén las traducciones del contexto
+
   const links = [
-    { href: "/", label: "Inicio" },
-    { href: "#", label: "Contactanos" }
+    { href: "/", label: translations.contactPages.home }, 
+    { href: "#", label: translations.contactPages.contactUs } 
   ];
+
   return (
     <>
-    <ServicesHeaderPage title="Contactanos"
-        subtitle="Cotiza con Nosotros"
+      <ServicesHeaderPage
+        title={translations.contactPages.contactUsTitle} 
+        subtitle={translations.contactPages.quoteWithUs} 
         backgroundImage={""}
-        />
-    <Breadcrumb links={links} />
-
-     <ContentProduct />
-{/*     <SectionSocial  />
- */}   
-  </>
+      />
+      <Breadcrumb links={links} />
+      <ContentProduct />
+      {/* <SectionSocial /> */}
+    </>
   );
 };

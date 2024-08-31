@@ -19,3 +19,13 @@
 .colortextFooter:hover {
   color: #0fa968;
 }
+
+/* Para los íconos del menú móvil */
+.inline-flex.items-center.justify-center {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.inline-flex.items-center.justify-center:hover {
+  background-color: #0fa968; /* Color de fondo al pasar el ratón */
+  color: white; /* Color del ícono al pasar el ratón */
+}

@@ -1,0 +1,257 @@
+{
+    "slides": [
+        {
+            "caption": "Tu Red de Datos y Ciberseguridad garantizada",
+            "description": "Protegemos tu red de datos con las últimas tecnologías en ciberseguridad.",
+            "buttonText": "Nuestros servicios"
+        },
+        {
+            "caption": "Seguridad en la Nube",
+            "description": "Asegura tus datos en la nube con nuestras soluciones avanzadas.",
+            "buttonText": "Ver más"
+        },
+        {
+            "caption": "Protección de Datos",
+            "description": "Mantén la privacidad y seguridad de tus datos con nuestras soluciones.",
+            "buttonText": "Descubre cómo"
+        }
+    ],
+    "dataImg": {
+        "headingPart1": "Tecnología con",
+        "headingPart2": "Conciencia",
+        "paragraph1": "El hombre ha causado numerosos problemas medioambientales, convirtiéndose en una de las peores amenazas para el planeta. Nos encontramos en una encrucijada donde, si no revertimos el daño ambiental, nos dirigimos hacia una pendiente negativa que podría llevar a la extinción de la vida en la Tierra.",
+        "paragraph2": "Queremos participar activamente en la solución, contribuyendo con nuestro granito de arena en medio de esta crisis que estamos dejando a las futuras generaciones. Queremos destacar la importancia de la tecnología, usándola de manera racional y sostenible para minimizar, e incluso revertir, los impactos ambientales.",
+        "paragraph3": "Antes de aplicar cualquier tecnología, es crucial considerar su impacto ambiental. Esta reflexión consciente y racional es la esencia de nuestra organización, Tecnología con Conciencia (TcC).",
+        "buttonText": "Acerca de Nosotros"
+    },
+    "features": {
+        "services": "Servicios",
+        "technologicalSolutions": "Soluciones Tecnológicas",
+        "description": "Descubre cómo podemos ayudarte a transformar tu negocio con nuestras soluciones tecnológicas avanzadas.",
+        "items": [
+            {
+                "icon": "sparkles",
+                "name": "Soluciones Innovadoras",
+                "description": "Traemos tecnología de punta para resolver tus desafíos más difíciles."
+            },
+            {
+                "icon": "puzzle",
+                "name": "Desarrollo Personalizado",
+                "description": "Soluciones de software a medida diseñadas para satisfacer tus necesidades únicas."
+            },
+            {
+                "icon": "presentation-chart-bar",
+                "name": "Análisis de Datos",
+                "description": "Desbloquea el poder de tus datos con nuestras herramientas analíticas avanzadas."
+            },
+            {
+                "icon": "clock",
+                "name": "Procesos Eficientes",
+                "description": "Optimiza tus operaciones con tecnología que te ahorra tiempo."
+            }
+        ]
+    },
+    "missionVision": {
+        "title": "Nuestra Misión y Visión",
+        "mission": {
+            "title": "Misión",
+            "content": "Impulsar el uso de las diversas tecnologías aplicadas por el hombre, en todas sus tareas cotidianas, sin perder de vista la importancia que la vida, la naturaleza y su medio significan para la su existencia."
+        },
+        "vision": {
+            "title": "Visión",
+            "content": "TcC debe convertirse para el 2030 en la más innovadora organización privada que impulse el uso responsable de las diversas tecnologías en el país, impulsando la riqueza y el talento nacional, e impartiendo conocimiento libre con cero dependencias, con la apropiación y uso de aplicaciones informáticas en los procesos de desarrollo de nuestras gentes."
+        }
+    },
+    "projectCard": {
+        "recentProjects": "Proyectos Recientes",
+        "description": "Echa un vistazo a algunos de nuestros últimos proyectos de desarrollo web y aplicaciones móviles.",
+        "projects": [
+            {
+                "id": 1,
+                "imgSrc": "https://placehold.co/150x150",
+                "logoSrc": "https://placehold.co/100x50",
+                "title": "Proyecto Uno",
+                "description": "Un sitio web de comercio electrónico moderno con un diseño elegante y responsive.",
+                "tags": [
+                    "Diseño",
+                    "Creatividad"
+                ]
+            },
+            {
+                "id": 2,
+                "imgSrc": "https://placehold.co/150x150",
+                "logoSrc": "https://placehold.co/100x50",
+                "title": "Proyecto Dos",
+                "description": "Una aplicación web móvil para la gestión de proyectos de equipo.",
+                "tags": [
+                    "Diseño",
+                    "Creatividad"
+                ]
+            },
+            {
+                "id": 3,
+                "imgSrc": "https://placehold.co/150x150",
+                "logoSrc": "https://placehold.co/100x50",
+                "title": "Proyecto Tres",
+                "description": "Una aplicación web personalizada para un proveedor de servicios de salud.",
+                "tags": [
+                    "Desarrollo",
+                    "Innovación"
+                ]
+            }
+        ]
+    },
+    "quotes": {
+        "title": "Cotiza tu idea con nosotros",
+        "description": "¿Tienes una idea en mente? Nosotros te ayudamos a hacerla realidad. Contáctanos para cotizar tu proyecto.",
+        "contactUs": "Contáctanos"
+    },
+    "services": {
+        "description1": "Como proveedores integrales de soluciones, Tecnología con Conciencia ofrece servicios que abarcan desde el diseño de sistemas hasta proyectos multimedia, comunicaciones de datos, infraestructura de TI y ciberseguridad, con una experiencia probada en sectores gubernamentales, entidades públicas y empresas. Con nuestro equipo técnico propio, puede confiarnos el desarrollo, implementación y mantenimiento de sus proyectos de red.",
+        "description2": "Hemos estado trabajando en varios proyectos de soluciones IoT y tecnologías de inteligencia artificial en los últimos años."
+    },
+    "breadcrumb": {
+        "home": "Inicio",
+        "services": "Servicios",
+        "aboutUs": "Sobre Nosotros",
+        "projects": "Proyectos"
+    },
+    "servicesPage": {
+        "title": "Áreas en las que nos especializamos",
+        "subtitle": "Servicios"
+    },
+    "servicesText": {
+        "description1": "Como proveedores integrales de soluciones, Tecnología con Conciencia ofrece servicios que abarcan desde el diseño de sistemas hasta proyectos multimedia, comunicaciones de datos, infraestructura de TI y ciberseguridad, con una experiencia probada en sectores gubernamentales, entidades públicas y empresas. Con nuestro equipo técnico propio, puede confiarnos el desarrollo, implementación y mantenimiento de sus proyectos de red.",
+        "description2": "Hemos estado trabajando en varios proyectos de soluciones IoT y tecnologías de inteligencia artificial en los últimos años."
+    },
+    "aboutPage": {
+        "title": "Sobre Nosotros",
+        "subtitle": "Nuestra Empresa",
+        "whoWeAre": "¿Quiénes Somos?",
+        "description": "Somos una empresa de desarrollo de software dedicada a proporcionar soluciones tecnológicas innovadoras y personalizadas. Nos especializamos en el desarrollo de aplicaciones web y móviles, ofreciendo servicios de consultoría y soporte técnico para ayudar a nuestros clientes a alcanzar sus objetivos empresariales.",
+        "contactUs": "Contáctanos"
+    },
+    "principlesPage": {
+        "ourPrinciples": "Nuestros Principios",
+        "innovationTIC": "Innovación y TIC",
+        "innovationDescription": "Creemos en el poder de la innovación y el uso de las tecnologías de la información y comunicación para impulsar el progreso y crear un cambio positivo.",
+        "communityCommitment": "Compromiso con la Comunidad",
+        "communityDescription": "Estamos comprometidos con el trabajo comunitario y la formación de una próspera comunidad tecnológica, fomentando la colaboración y el intercambio de conocimientos."
+    },
+    "approachPage": {
+        "ourApproach": "Nuestro Enfoque",
+        "openSourcePhilosophy": "Filosofía de Código Abierto y GNU",
+        "openSourceDescription": "El software de código abierto y la filosofía GNU están en el corazón de nuestras operaciones. Creemos en el intercambio colaborativo de conocimientos y el uso de herramientas abiertas como una base fundamental, mientras empleamos otras herramientas cuando es necesario.",
+        "platformDevelopment": "Desarrollo de Plataformas",
+        "platformDescription": "Diseñamos y desarrollamos plataformas informáticas que benefician y mejoran los procesos de desarrollo de la comunidad.",
+        "technologyAdoption": "Adopción de Tecnología",
+        "technologyDescription": "Desarrollamos y promovemos la adopción de aplicaciones tecnológicas en diversas áreas del desarrollo humano, como las comunicaciones, la energía limpia y los alimentos orgánicos.",
+        "agriculturalResearch": "Investigación Agrícola",
+        "agriculturalDescription": "Llevamos a cabo investigaciones y promovemos la apropiación de la tecnología en el sector agrícola."
+    },
+    "contactPages": {
+        "home": "Inicio",
+        "contactUs": "Contáctanos",
+        "contactUsTitle": "Contáctanos",
+        "quoteWithUs": "Cotiza con Nosotros"
+    },
+    "formContact": {
+        "location": "Ubicación",
+        "address": "Calle 123, Sogamoso",
+        "phone": "Teléfono",
+        "phoneNumber": "+57 3135891087",
+        "email": "Correo",
+        "emailAddress": "info@tecon.com",
+        "hours": "Horario",
+        "hoursOfOperation": "Lun - Vie, 9:00 - 18:00",
+        "contactUsTitle": "Contáctanos",
+        "description": "No dudes en ponerte en contacto con nosotros a través de cualquiera de los siguientes métodos.",
+        "nameLabel": "Nombre",
+        "namePlaceholder": "Ingresa tu nombre",
+        "emailLabel": "Correo electrónico",
+        "emailPlaceholder": "Ingresa tu correo",
+        "phoneLabel": "Teléfono",
+        "phonePlaceholder": "Ingresa tu teléfono",
+        "messageLabel": "Mensaje",
+        "messagePlaceholder": "Ingresa tu mensaje",
+        "submitButton": "Enviar"
+    },
+    "contactSection": {
+        "contactFormTitle": "Formulario de Contacto",
+        "contactFormDescription": "Completa el formulario para que podamos ponernos en contacto contigo.",
+        "socialMediaTitle": "Redes Sociales",
+        "socialMediaDescription": "Síguenos en nuestras redes sociales para estar al tanto de nuestras últimas novedades."
+    },
+    "imgData": {
+        "title": "Transformando Ideas en Soluciones Innovadoras",
+        "description": "En Tecnología con Conciencia, nos especializamos en ofrecer soluciones de software de vanguardia que ayudan a nuestros clientes a alcanzar sus objetivos comerciales. Con años de experiencia y un equipo de profesionales cualificados, estamos comprometidos a proporcionar un servicio excepcional y fomentar la innovación.",
+        "cta": "Conocer Más"
+    },
+    "itemCard": {
+        "title": "Nuestros Proyectos",
+        "projects": [
+            {
+                "title": "Proyecto 1",
+                "description": "Una aplicación web integral que optimiza las operaciones empresariales y mejora la productividad.",
+                "link": "Ver Detalles"
+            },
+            {
+                "title": "Proyecto 2",
+                "description": "Una plataforma de comercio electrónico compatible con dispositivos móviles que ofrece una experiencia de compra fluida.",
+                "link": "Ver Detalles"
+            },
+            {
+                "title": "Proyecto 3",
+                "description": "Una plataforma de análisis impulsada por datos que proporciona información valiosa para impulsar el crecimiento empresarial.",
+                "link": "Ver Detalles"
+            }
+        ]
+    },
+    "servicesCard": [
+        {
+            "title": "Desarrollo Web",
+            "description": "Creación de sitios web modernos, receptivos y fáciles de usar para ayudar a que tu negocio prospere en línea.",
+            "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='w-6 h-6 text-primary-foreground group-hover:rotate-180 transition-transform'><polyline points='16 18 22 12 16 6'></polyline><polyline points='8 6 2 12 8 18'></polyline></svg>"
+        },
+        {
+            "title": "Desarrollo Móvil",
+            "description": "Desarrollo de aplicaciones móviles de vanguardia que ofrecen experiencias de usuario fluidas en plataformas iOS y Android.",
+            "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='w-6 h-6 text-primary-foreground group-hover:rotate-180 transition-transform'><rect width='14' height='20' x='5' y='2' rx='2' ry='2'></rect><path d='M12 18h.01'></path></svg>"
+        },
+        {
+            "title": "Consultoría",
+            "description": "Proporcionar orientación experta y asesoramiento estratégico para ayudar a tu negocio a alcanzar sus objetivos.",
+            "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='w-6 h-6 text-primary-foreground group-hover:rotate-180 transition-transform'><path d='M16 20V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16'></path><rect width='20' height='14' x='2' y='6' rx='2'></rect></svg>"
+        },
+        {
+            "title": "Analítica de Datos",
+            "description": "Descubrir ideas valiosas a partir de tus datos para impulsar la toma de decisiones informadas y el crecimiento empresarial.",
+            "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='w-6 h-6 text-primary-foreground group-hover:rotate-180 transition-transform'><ellipse cx='12' cy='5' rx='9' ry='3'></ellipse><path d='M3 5V19A9 3 0 0 0 21 19V5'></path><path d='M3 12A9 3 0 0 0 21 12'></path></svg>"
+        },
+        {
+            "title": "Soluciones en la Nube",
+            "description": "Aprovechar las tecnologías en la nube para mejorar la escalabilidad, la seguridad y la eficiencia de tu negocio.",
+            "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='w-6 h-6 text-primary-foreground group-hover:rotate-180 transition-transform'><path d='M17.5 19H9a7 7 0 1 1 6.71-9h1.79a4.5 4.5 0 1 1 0 9Z'></path></svg>"
+        },
+        {
+            "title": "Soporte de TI",
+            "description": "Ofrecer soporte integral de TI para asegurar que tu tecnología funcione sin problemas.",
+            "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='w-6 h-6 text-primary-foreground group-hover:rotate-180 transition-transform'><path d='M12 20a8 8 0 1 0 0-16 8 8 0 0 0 0 16Z'></path><path d='M12 14a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z'></path><path d='M12 2v2'></path><path d='M12 22v-2'></path><path d='m17 20.66-1-1.73'></path><path d='M11 10.27 7 3.34'></path><path d='m20.66 17-1.73-1'></path><path d='m3.34 7 1.73 1'></path><path d='M14 12h8'></path><path d='M2 12h2'></path><path d='m20.66 7-1.73 1'></path><path d='m3.34 17 1.73-1'></path><path d='m17 3.34-1 1.73'></path><path d='m11 13.73-4 6.93'></path></svg>"
+        }
+    ],
+    "navbar": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "about": "Nosotros",
+    "projects": "Proyectos",
+    "contact": "Contáctanos"
+  },
+  "footer": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "about": "Nosotros",
+    "projects": "Proyectos",
+    "contact": "Contáctanos",
+    "copyright": "Copyright © 2024 Tecnología con Conciencia | Todos los derechos reservados."
+  }
+}
